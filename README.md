@@ -2,10 +2,12 @@
 
 A tiny drag-and-drop app (macOS and Windows) that turns a saved Quizlet
 flashcard-set page into a CSV of term/definition pairs — no scraping the
-live site, no ads, no server, nothing leaves your machine.
+live site, no ads, no server, nothing leaves your machine. 
 
 **This guide assumes you've never used the command line before.** It's
 longer than a normal README on purpose — every step is spelled out.
+
+Made by a non-techie, for non-techies. With help from **CLAUDE CODE**.
 
 ## Why bother with this?
 
