@@ -109,7 +109,7 @@ def main():
             continue
 
         out_path = os.path.splitext(html_path)[0] + ".csv"
-        with open(out_path, "w", newline="", encoding="utf-8") as f:
+        with open(out_path, "w", newline="", encoding="utf-8-sig") as f:
             writer = csv.writer(f)
             writer.writerow(["term", "definition"])
             writer.writerows(pairs)

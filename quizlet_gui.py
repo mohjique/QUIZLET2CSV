@@ -42,7 +42,7 @@ def convert_files(paths):
             failures.append(f"{os.path.basename(path)}: {e}")
             continue
         out_path = os.path.splitext(path)[0] + ".csv"
-        with open(out_path, "w", newline="", encoding="utf-8") as f:
+        with open(out_path, "w", newline="", encoding="utf-8-sig") as f:
             writer = csv.writer(f)
             writer.writerow(["term", "definition"])
             writer.writerows(pairs)
