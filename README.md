@@ -7,7 +7,7 @@ live site, no ads, no server, nothing leaves your machine.
 **This guide assumes you've never used the command line before.** It's
 longer than a normal README on purpose — every step is spelled out.
 
-Made by a non-techie, for non-techies. With help from **CLAUDE CODE**.
+Made by a non-techie, for non-techies. Best for humanities/bio/premed subjects requiring heavy memorization. With help from **CLAUDE CODE**.
 
 ## Why bother with this?
 
